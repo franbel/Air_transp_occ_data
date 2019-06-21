@@ -1,2 +1,7 @@
-HI This is Francisco
-I am doing good
+q/as
+
+problem defination:
+
+what are we looking for:
+
+abdulla
