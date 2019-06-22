@@ -1,7 +1,4 @@
-q/as
+problem definition: can accidents be predicted? 
 
-problem defination:
+what are we looking for: cleaning, exploring, visualizing and modelling relevant features
 
-what are we looking for:
-
-abdulla
