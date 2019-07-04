@@ -7,4 +7,4 @@ Help needed on graphs (see comments) and fixing the scatter graph ticks to be an
 - MakeID (Manufacturer)
 - Time of the day
 
-Started classification, issues with object class and slicing, 'too many indexes', need to encode and run RFC
+Classification completed, clustering not working, visualization issues
