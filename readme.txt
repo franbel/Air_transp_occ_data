@@ -8,3 +8,14 @@ Help needed on graphs (see comments) and fixing the scatter graph ticks to be an
 - Time of the day
 
 Started classification, issues with object class and slicing, 'too many indexes', need to encode and run RFC
+
+Pending graphs
+
+	- Accidents happening at the same location and fatalities/weekdays
+	- Accidents per year and month
+	- Fatalities per group (how many accidents produced the most fatalities)
+	- Fatalities per operation/aircraft type 
+	- Fatalities per make and years
+	- Incidents by type
+
+Change OccTypeID from 1,3 to 0,1 and any other columns showing similar
