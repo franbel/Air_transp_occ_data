@@ -18,4 +18,5 @@ Pending graphs
 	- Fatalities per make and years
 	- Incidents by type
 
-Change OccTypeID from 1,3 to 0,1 and any other columns showing similar
+- Tune up the clustering to improve precision
+- Get a graph with accidents + movements on a bar and line display
