@@ -1,0 +1,100 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Aircraft movements, by class of operation, airports with NAV CANADA towers, annual",23100018,401-0023,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2310001801",,"CURRENT - a cube available to the public and that is current",Annual,1997-01-01,2018-01-01,3
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,,
+2,"Class of operation",,
+3,"Rank and number of movements",,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,"Total Canadian airports",,1,,,,
+1,"Abbotsford, British Columbia",,2,1059,,,
+1,"Boundary Bay, British Columbia",,3,1059,,,
+1,"Calgary International, Alberta",,4,1048,,,
+1,"Calgary/Springbank, Alberta",,5,1048,,,
+1,"Chicoutimi/St-Honoré, Quebec",,6,1024,,,
+1,"Edmonton City Centre, Alberta",,7,1048,t,,
+1,"Edmonton International, Alberta",,8,1048,,,
+1,"Edmonton/Villeneuve, Alberta",,9,1048,,,
+1,"Gander International, Newfoundland and Labrador",,10,1010,,,
+1,"Halifax/Robert L. Stanfield International, Nova Scotia",,11,1012,,,
+1,"Hamilton, Ontario",,12,1035,,,
+1,"Kelowna, British Columbia",,13,1059,,,
+1,"Kitchener/Waterloo, Ontario",,14,1035,,,
+1,"Langley, British Columbia",,15,1059,,,
+1,"London, Ontario",,16,1035,,,
+1,"Moncton/Greater Moncton International, New Brunswick",,17,1013,,,
+1,"Montréal/Mirabel International, Quebec",,18,1024,t,,
+1,"Montréal/Pierre Elliott Trudeau International, Quebec",,19,1024,,,
+1,"Montréal/St-Hubert, Quebec",,20,1024,,,
+1,"North Bay, Ontario",,21,1035,t,,
+1,"Oshawa, Ontario",,22,1035,,,
+1,"Ottawa/Macdonald-Cartier International, Ontario",,23,1035,,,
+1,"Pitt Meadows, British Columbia",,24,1059,,,
+1,"Prince George, British Columbia",,25,1059,,,
+1,"Québec/Jean Lesage International, Quebec",,26,1024,,,
+1,"Regina International, Saskatchewan",,27,1047,,,
+1,"Saskatoon/John G. Diefenbaker International, Saskatchewan",,28,1047,,,
+1,"Sault Ste. Marie, Ontario",,29,1035,,,
+1,"Sept-Îles, Quebec",,30,1024,t,,
+1,"St. John's International, Newfoundland and Labrador",,31,1010,,,
+1,"St-Jean, Quebec",,32,1024,,,
+1,"Sudbury, Ontario",,33,1035,t,,
+1,"Thunder Bay, Ontario",,34,1035,,,
+1,"Toronto/Buttonville Municipal, Ontario",,35,1035,,,
+1,"Toronto/Billy Bishop Toronto City, Ontario",,36,1035,,,
+1,"Toronto/Lester B. Pearson International, Ontario",,37,1035,,,
+1,"Vancouver Harbour, British Columbia",,38,1059,,,
+1,"Vancouver International, British Columbia",,39,1059,,,
+1,"Victoria International, British Columbia",,40,1059,,,
+1,"Whitehorse International, Yukon",,41,1060,,,
+1,"Windsor, Ontario",,42,1035,,,
+1,"Winnipeg/James Armstrong Richardson International, Manitoba",,43,1046,,,
+1,"Winnipeg/St. Andrews, Manitoba",,44,1046,,,
+1,"Yellowknife, Northwest Territories",,45,1061,,,
+1,"Fort McMurray, Alberta",,46,1048,,,
+1,"Fredericton International, New Brunswick",,47,1013,,,
+1,"Newfoundland and Labrador",[10],1010,1,,,
+1,"Nova Scotia",[12],1012,1,,,
+1,"New Brunswick",[13],1013,1,,,
+1,Quebec,[24],1024,1,,,
+1,Ontario,[35],1035,1,,,
+1,Manitoba,[46],1046,1,,,
+1,Saskatchewan,[47],1047,1,,,
+1,Alberta,[48],1048,1,,,
+1,"British Columbia",[59],1059,1,,,
+1,Yukon,[60],1060,1,,,
+1,"Northwest Territories",[61],1061,1,,,
+2,"Total, itinerant and local movements",,1,,,,
+2,"Itinerant movements",,2,1,,,
+2,"Local movements",,3,1,,,
+3,"Rank of movements",,1,,,,
+3,"Number of movements",,2,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+2715,"Aircraft Movement Statistics"
+
+"Subject Code","Subject Name"
+23,Transportation
+
+"Note ID",Note
+
+"Correction ID","Correction Date","Correction Note"
+

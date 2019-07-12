@@ -9,6 +9,8 @@ Help needed on graphs (see comments) and fixing the scatter graph ticks to be an
 
 Started classification, issues with object class and slicing, 'too many indexes', need to encode and run RFC
 
+Help needed with the Geomap, coordinates not falling in place, false N and W bugging the df coordinates!!!
+
 Pending graphs
 
 	- Accidents happening at the same location and fatalities/weekdays
