@@ -7,6 +7,7 @@ Help needed on graphs (see comments) and fixing the scatter graph ticks to be an
 - MakeID (Manufacturer)
 - Time of the day
 
+<<<<<<< HEAD
 Started classification, issues with object class and slicing, 'too many indexes', need to encode and run RFC
 
 Help needed with the Geomap, coordinates not falling in place, false N and W bugging the df coordinates!!!
@@ -22,3 +23,6 @@ Pending graphs
 
 - Tune up the clustering to improve precision
 - Get a graph with accidents + movements on a bar and line display
+=======
+Classification completed, clustering not working, visualization issues
+>>>>>>> 828d6f98c9f07c76a6b653ad6d10db85bb3550b3
