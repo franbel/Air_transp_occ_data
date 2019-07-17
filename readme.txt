@@ -25,4 +25,5 @@ Pending graphs
 - Get a graph with accidents + movements on a bar and line display
 =======
 Classification completed, clustering not working, visualization issues
->>>>>>> 828d6f98c9f07c76a6b653ad6d10db85bb3550b3
+
+Cleaning up and preparing the presentation
