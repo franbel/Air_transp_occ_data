@@ -1,18 +1,11 @@
-problem definition: can accidents be predicted? 
+Using public domain information from the TSB Air transportation occurrence data, a jupyter notebook was used to practice the OSEMN (Obtain, Scrub, Explore, Model and Interpret) methodology in Python for Machine Learning. 
 
-what are we looking for: cleaning, exploring, visualizing and modelling relevant features
+Problem definition: can occurrences be predicted? 
 
-Help needed on graphs (see comments) and fixing the scatter graph ticks to be angled, smaller font to make them easier to the eye, they're taking over the plot itself! Still to go:
-- Operator graph (Airline, Private, Govt)
-- MakeID (Manufacturer)
-- Time of the day
+What are we looking for: cleaning, exploring, visualizing and modelling relevant features
 
-<<<<<<< HEAD
-Started classification, issues with object class and slicing, 'too many indexes', need to encode and run RFC
+The notebook includes a set of slides selected for a rise presentation format. 
 
-Help needed with the Geomap, coordinates not falling in place, false N and W bugging the df coordinates!!!
-
-Pending graphs
 
 	- Accidents happening at the same location and fatalities/weekdays
 	- Accidents per year and month
@@ -21,9 +14,9 @@ Pending graphs
 	- Fatalities per make and years
 	- Incidents by type
 
-- Tune up the clustering to improve precision
-- Get a graph with accidents + movements on a bar and line display
-=======
-Classification completed, clustering not working, visualization issues
+Please provide comments, feedback and build on it to help improving air transportation safety.
 
-Cleaning up and preparing the presentation
+
+Thanks,
+
+Francisco Beltran
